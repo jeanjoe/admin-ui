@@ -34,6 +34,8 @@ import { SpinnerComponent } from "./spinner/spinner.component";
     SideMenuComponent,
     HomeComponent,
     ParentComponent,
+    FooterComponent,
+    SpinnerComponent,
   ],
   exports: [
     HeaderComponent,
